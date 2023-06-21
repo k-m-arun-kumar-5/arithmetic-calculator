@@ -32,7 +32,7 @@ Some references that I referred for PIC18F452  Application Design and Developmen
 
 Note :
 ======
-Kindly read in the source codes, if mentioned, about the Program Description or Purpose, Known Bugs, Caution, and Notes and documentation. Some applications are also tested in a PIC18F452 development board.
+Kindly read in the source codes, if mentioned, about the Program Description or Purpose, Known Bugs, Caution, and Notes and documentation. 
 
 My Repositories Web Link :
 ==========================
