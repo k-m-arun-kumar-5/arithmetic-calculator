@@ -1,6 +1,6 @@
 ﻿Description :
 =============
-I,  K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, in which I worked as a learning path and practiced Embedded C programming using PIC18F452 (Microchip's 8-bit microcontroller in PIC18 family) such as an 16-bit arithmetic calculator. 
+I,  K.M. Arun Kumar alias Arunkumar Murugeswaran, just shared my works, in which I worked as a learning path and practiced Embedded C programming using PIC18F452 (Microchip's 8-bit microcontroller in PIC18 family) such as a 16-bit whole number arithmetic calculator. 
 
 CAUTION:
 ========
