@@ -27,7 +27,7 @@ Some references that I referred for PIC18F452  Application Design and Developmen
 1: Schaum's Outline of Programming with C, 2nd Edition - Book authored by Byron Gottfried.
 2: Understanding and Using C Pointers: Core Techniques for Memory Management - Book authored by Richard M. Reese. 
 3: Embedded C - Book authored by Michael J. Pont.
-4: PIC16F887 product datasheet.
+4: PIC18F452 product datasheet.
 5: Hitachi HD44780U - LCD product data-sheet.
 
 Note :
