@@ -16,7 +16,7 @@ I thank my family, Friends, Teachers, People behind the toolchains and reference
 
 The toolchains that I used are as follows :
 ========================================
-1: IDE and compiler for PIC18F452                                           - MikroC PRO for C version 7.2.0.
+1: IDE and compiler for PIC18F452                                           - MikroC PRO for PIC version 7.2.0.
 2: CAD and simulator for PIC18F452                                          - Proteus 8.11 Professional. 
 3: Desktop Computer Architecture and OS for PIC18F452 development           - Intel X64 & Windows 10 (64-bit).
 
