@@ -19,16 +19,6 @@ The toolchains that I used are as follows :
 1: IDE and compiler for PIC18F452                                           - MikroC PRO for C version 7.2.0.
 2: CAD and simulator for PIC18F452                                          - Proteus 8.11 Professional. 
 3: Desktop Computer Architecture and OS for PIC18F452 development           - Intel X64 & Windows 10 (64-bit).
-4: Code editor                                                              - Notepad++.
-5: Documentation                                                            - Microsoft Office 2007 (alternative LibreOffice) and Text Editor.
-
-Some references that I referred for PIC18F452  Application Design and Development, are as follows :
-==================================================================================================
-1: Schaum's Outline of Programming with C, 2nd Edition - Book authored by Byron Gottfried.
-2: Understanding and Using C Pointers: Core Techniques for Memory Management - Book authored by Richard M. Reese. 
-3: Embedded C - Book authored by Michael J. Pont.
-4: PIC18F452 product datasheet.
-5: Hitachi HD44780U - LCD product data-sheet.
 
 Note :
 ======
